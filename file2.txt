@@ -1,6 +1,6 @@
 public void Main()
 {
-Erste ï¿½nderung
+Erste Änderung
   file2.txt
   Martin
   Schorr
@@ -8,6 +8,7 @@ Erste ï¿½nderung
 
 public void Test()
 {
+Zweite Änderung
   11:36 26.05.2017AKMS
   weitere Änderung
   André Krämer
