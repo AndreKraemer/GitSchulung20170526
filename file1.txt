@@ -3,3 +3,4 @@ notepad file1.txt
 *****************
 Neues Feature 1
 ----------------
+André Krämer
