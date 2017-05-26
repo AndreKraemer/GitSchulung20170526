@@ -2,3 +2,4 @@ git init
 notepad file1.txt
 *****************
 Neues Feature 1
+----------------
