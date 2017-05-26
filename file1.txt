@@ -1,0 +1,2 @@
+git init
+notepad file1.txt
