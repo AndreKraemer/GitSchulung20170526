@@ -1,4 +1,11 @@
-file2.txt
-Martin
-11:36 26.05.2017
-weitere Änderung
+public void Main()
+{
+  file2.txt
+  Martin
+}
+
+public void Test()
+{
+  11:36 26.05.2017
+  weitere Änderung
+}
